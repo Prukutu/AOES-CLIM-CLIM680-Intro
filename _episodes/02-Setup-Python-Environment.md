@@ -111,4 +111,3 @@ These were steps for setting up the Python environment. Now that you have done t
 > Run the `metpy` example again.
 >
 {: .challenge}
-
