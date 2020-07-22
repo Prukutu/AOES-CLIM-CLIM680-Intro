@@ -40,7 +40,7 @@ The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Ea
 * IMPORTANT NOTE: THIS CLASS WILL BE RECORDED.  Videos may be used in other GMU courses or video snippets may be used in public forum (e.g. website, twitter, etc.) as an example or advertisement of online course instruction. If you have privacy concerns, please speak to me ASAP.
 * Please be patient with technical issues as we all learn how best to do online learning via Zoom and to the best we can with our personal home internt.  Your feedback however is also welcome and encouraged.  See Feedback section below.
 
-> ## Using Zoom and Introductions
+> ## Introduction and Using Zoom 
 >
 > TEST
 >
@@ -58,13 +58,16 @@ The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Ea
 * Your own dataset [ we will work on this together in the first week of class]
 There is no required book for this course.
 
-> ## Accessing Course Materials Using Blackboard
+> ## Icebreaker using OneDrive
 >
-> TEST
+> Add the name you wish to be called and preferred pronouns to the OneDrive document
+>
+> Under First Exercise in the OneDrive document, list the best class you ever took (or one class from your top ten, if you can’t decide), and what made it so great. This exercise should take about 2 minutes.
+>
 >
 {: .challenge}
 
-> ## Using OneDrive for Class Engagement
+> ## Accessing Course Materials Using Blackboard
 >
 > TEST
 >
