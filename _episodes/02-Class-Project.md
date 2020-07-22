@@ -1,5 +1,5 @@
 ---
-title: "Syllabus"
+title: "Class Project"
 teaching: 0
 exercises: 0
 questions:
