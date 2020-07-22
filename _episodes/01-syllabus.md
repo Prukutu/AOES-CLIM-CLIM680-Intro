@@ -1,3 +1,16 @@
+---
+title: "Syllabus"
+teaching: 5
+exercises: 0
+questions:
+- "What are are the logistics for this class?
+- "What are the  expectations for this class?"
+objectives:
+- "Explain the expectations for this class"
+- "Explain logistics for this class"
+keypoints:
+- "Class stuff"
+---
 # CLIM 680 Climate Data Analysis
 Fall 2020, Online, Synchronous
 
