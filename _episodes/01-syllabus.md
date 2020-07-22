@@ -82,7 +82,7 @@ There is no required book for this course.
 3. _Office Hours_: Please email me if you wish to meet individually and we will schedule a time to meet in Zoom.
 
 
-> ### Prerequisites
+> ## Prerequisites
 >
 > * Computer programming course or experience in any language
 > * MATH 115 or an equivalent course
@@ -163,22 +163,38 @@ This class has no exams.
 
 ### University Policies
 
-### Academic integrity
-Academic integrity (please include a statement about academic integrity and link to the Mason Honor Code: https://oai.gmu.edu/mason-honor-code/).  Office of Academic Integrity has provided examples for suggested syllabus language about academic integrity .
+#### Academic integrity
 
-### Disability accomodations
-Disability accommodations
-Please include link to Office of Disability Services (ds.gmu.edu) and state that students need to contact Disability Services to request accommodations, with appropriate documentation (ds.gmu.edu/forms/).
-Remind students of the core rules of "Netiquette"; students must carefully craft their communication in the online classroom to avoid misinterpretation
+It is expected that students adhere to the George Mason University Honor Code as it relates to integrity regarding coursework and grades.  The Honor Code reads as follows:”To promote a stronger sense of mutual responsibility, respect, trust, and fairness among all members of the George Mason University community and with the desire for greater academic and personal achievement, we, the student members of the University Community have set forth this: Student members of the George Mason University community pledge not to cheat, plagiarize, steal and/or lie in matters related to academic work.”  More information about the Honor Code, including definitions of cheating, lying, and plagiarism, can be found at the Office of Academic Integrity website at (http://oai.gmu.edu)
 
-### Diversity and Inclusion
+#### Disability accomodations
+Disability Services at George Mason University is committed to providing equitable access to learning opportunities for all students by upholding the laws that ensure equal treatment of people with disabilities. If you are seeking accommodations for this class, please first visit http://dsgmu.wpengine.com/ for detailed information about the Disability Services registration process. Then please discuss your approved accommodations with me. Disability Services is located in Student Union Building I (SUB I), Suite 2500. Email: ods@gmu.edu | Phone: (703) 993-2474
 
-### Religious Holidays
+#### Netiquite
+
+#### Diversity and Inclusion
+
+This class is an intentionally inclusive community, promotes and maintains an equitable and just work and learning environment. We welcome and value individuals and their differences including race, economic status, gender expression and identity, sex, sexual orientation, ethnicity, national origin, first language, religion, age, and disability.
+
+Mason Non-Discrimination Policy(https://universitypolicy.gmu.edu/policies/non-discrimination-policy/)
+Mason Diversity Statement (https://stearnscenter.gmu.edu/knowledge-center/general-teaching-resources/mason-diversity-statement/)
+
+#### Netiquite
+
+An important component of inclusivity is to be aware of how we communicate with others. Please follow approrpiate Netiquite when communicating in this course http://www.albion.com/netiquette/corerules.html to avoid misinterpretation in an online environment.
+
+
+#### Religious Holidays
 Mason University Life religious holiday calendar https://ulife.gmu.edu/religious-holiday-calendar/; indicate that it is the responsibility of student, within the first two weeks of the semester, to let their instructors know the dates of major religious holidays on which the student will be absent or unavailable due to religious observances.
 
-### Privacy
-Please include a link about student privacy and student rights under FERPA (https://registrar.gmu.edu/ferpa/)
-You must use your GMU MasonLive email.
+#### Privacy
+
+Student privacy is governed by the Family Educational Rights and Privacy Act (FERPA) and is an essential aspect of any course.
+Students must use their MasonLive email account to receive important University information, including communications related to this class. I will not respond to messages sent from or send messages to a non-Mason email address.
+
+#### Sexual Harassment, Sexual Misconduct, and Interpersonal Violence
+
+As a faculty member and designated “Responsible Employee,” I am required to report all disclosures of sexual assault, interpersonal violence, and stalking to Mason’s Title IX Coordinator per university policy 1412. If you wish to speak with someone confidentially, please contact the Student Support and Advocacy Center (703-380-1434) or Counseling and Psychological Services (703-993-2380). You may also seek assistance from Mason’s Title IX Coordinator (703-993-8730; titleix@gmu.edu).
 
 ### Student support Services
 A complete list of [student support services](https://stearnscenter.gmu.edu/knowledge-center/knowing-mason-students/student-support-resources-on-campus/)
