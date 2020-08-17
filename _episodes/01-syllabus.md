@@ -98,27 +98,6 @@ The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Ea
 2. _Email_: I typically respond to emails within 24hrs during the work week and on Mon morning for emails that arrive over the weekend.  If you have not heard a response by this time, then I may not have received your email, so please re-send.
 3. _Office Hours_: Please email me if you wish to meet individually and we will schedule a time to meet in Zoom.
 
-### Overview
-How to process, analyze, and interpret environmental data for climate and related disciplines. Familiarizes students with software commonly used in atmospheric research and with techniques for working with large quantities of data. Examines mathematical tools for characterizing global physical data sets which vary in time and space, and applies the tools to observations and numerical model output.
-
-_At the end of this course,learners will be able to:_
-* Work comfortably from the Unix command line
-* Read a variety of climate data formats and make maps of the data
-* Handle large simulation and re-forecast datasets
-* Perform basic set of statistical analyses on climate datasets, including:
-   * climatologies and anomalies
-   * monthly and seasonal means and variances
-   * correlation and autocorrelation,
-   * regressions between a climate index and global fields
-   * composites
-   * climate patterns calculated via EOFs
-* Calculate statistical significance (i.e. t-test, f-test) and graph maps with a mask/stippling.
-* Write codes in Python and use Jupyter notebooks
-* Utilize good programming practices
-* Debug, problem solve, and simplify problems
-* Make publication/public quality plots
-* Develop and maintain their own Github repository of climate data analysis tools and codes from this course
-
 ### Class Attendance
 
 This is a synchronous, online course which means that it meets regularly online at a specified day and time. It is in your best interest to attend class during the scheduled class time.
@@ -153,7 +132,7 @@ This course requires students to apply the analysis techniques learned in class 
 * Final Project: 50% (25% Github repository and website; 25% presentation)
 
 #### _Assignments_
-Assignments are provided most weeks that require you to add something to the previous week’s analysis of your dataset.  It is in your best interest to complete these assignments on time in order to keep up with the class.  Assignments will be posted to Blackboard and you will be expected to upload your assignment to Blackboard or provide a Github link to your submission. Instructions will be provided in class.
+Assignments are provided most weeks and require you to add something to the previous week’s analysis of your dataset.  It is in your best interest to complete these assignments on time in order to keep up with the class.  Assignments will be posted to Blackboard and you will be expected to upload your assignment to Blackboard or provide a Github link to your submission. Instructions will be provided in class.
 
 Assignments will be graded as satisfactory (A), not satisfactory (C), or not/minimally attempted (F) promptly after the due date. Feedback will be provided via Blackboard or Github Issues.
 
@@ -224,12 +203,6 @@ A complete list of <a href="(https://stearnscenter.gmu.edu/knowledge-center/know
 ### Feedback
 
 When teaching online, it can be more difficult for me to gauge student understanding than in person.  In person, I can usually see on a student’s face whether they understand something or not.  This is much more difficult in an online environment.  Additionally, I am consistently working to make my online courses as engaging and effective as possible.  Feedback will be regularly requested at the end of each class period and provide information to adapt the course throughout the semester for this specific class. Additionally, a post course survey will provided to get your overall feedback on the course separate from standard course evaluations which do not provide sufficient useful information for improving the course.  Please help to develop this course by providing feedback so that the course can improve and adapt.
-
-> ## Practice Giving Feedback:  One up, One down
->
-> We will go around the virtual room alternating between giving one positive and one negative thing about the syllabus, without repeating anything that has already been said.
->
-{: .challenge}
 
 {% include links.md %}
 
