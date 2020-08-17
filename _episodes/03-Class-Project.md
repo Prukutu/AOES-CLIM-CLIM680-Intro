@@ -3,11 +3,11 @@ title: "Class Project"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What is expected for my class project?"
 objectives:
-- "First learning objective. (FIXME)"
+- "To describe the expectations for having your own dataset in this class"
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "You must have your own dataset to use in this class."
 ---
 
 ### Description of Project

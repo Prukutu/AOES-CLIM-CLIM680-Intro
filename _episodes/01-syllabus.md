@@ -5,7 +5,6 @@ questions:
 objectives:
 - "To define how this online class will operate and make sure that all learners know how to access and operate the required technology"
 keypoints:
-- "Experience with a programming language is required for this class"
 - "This class meets via Zoom"
 - "This class will use MS Teams and a Collaborative Document"
 - "This class will request feedback often"
@@ -74,7 +73,7 @@ The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Ea
 * COLA Computer Account [we will take care of this together during the first week of class]
 * There is no required book for this course.
 
- ## Interacting using MS Teams
+> ## Interacting using MS Teams
 >
 > * Access the MS Team for this course
 > * Send a short message to the Team telling us why you are taking this class
@@ -111,10 +110,6 @@ I understand, however that there can be various reasons for missing class and th
 * Classes will be recorded in Zoom, and the video posted to Blackboard.
 * A shard OneDrive document will show information from each class period, including questions asked and links to additional reference information discussed in class. The link to the OneDrive document will be provided in Blackboard.
 * All assignments will be posted to Blackboard.
-
-#### _Presentations_
-
-In some class periods, you may be assigned to give a short presentation.  These presentations will be part of your grade and you are expected to be in class at the designated class time for your presentation. You must notify me before the end of the class period you are scheduled to present if there is a connectivity issue that prevented you from presenting that day.
 
 ### Continuity Plans
 

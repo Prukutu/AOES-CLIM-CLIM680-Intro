@@ -3,9 +3,9 @@ title: "Overview"
 questions:
 - "What will this class cover?"
 objectives:
-- "To define how this online class will operate and make sure that all learners know how to access and operate the required technology"
+- "To provide an overview of what this class is about"
 keypoints:
-- "Experience with a programming language is required for this class"
+- "Learners will complete this course with their own toolbox"
 ---
 ### Overview
 How to process, analyze, and interpret environmental data for climate and related disciplines. Familiarizes students with software commonly used in atmospheric research and with techniques for working with large quantities of data. Examines mathematical tools for characterizing global physical data sets which vary in time and space, and applies the tools to observations and numerical model output.
