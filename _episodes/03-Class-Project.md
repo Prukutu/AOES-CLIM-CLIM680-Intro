@@ -6,6 +6,7 @@ objectives:
 - "To describe the expectations for having your own dataset in this class"
 keypoints:
 - "You must have your own dataset to use in this class."
+- "It is best if it is related to your graduate research."
 ---
 
 ### Description of Project
@@ -30,7 +31,9 @@ Please check with me if you are not sure if your dataset meets the requirements 
 > ## Start Thinking about your Dataset
 >
 > Type questions you have about the project or dataset requirements
+>
 > Type some potential datasets and what you already know about them.
+>
 > If you are not sure, type some climate related topics of interest to you that may help us identify a dataset.
 >
 {: .discussion}
