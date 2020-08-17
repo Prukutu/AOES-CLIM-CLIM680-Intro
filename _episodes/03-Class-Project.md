@@ -17,8 +17,6 @@ In this class, you will work with prepared datasets and be expected to apply wha
 * The code repository should be well documented and fully reproducible such that I can get your code and reproduce your analysis without changing anything and I can understand you code well enough to apply it to a different dataset.
 * Creating a website of your analysis using Github (we will how to do this in class)
 
-The weekly assignments will take you step-by-step to the completion of the project based on what we learn in class that week.
-
 ### Dataset Requirements
 It is highly reccomended that you choose a dataset that is relevant to your graduate research. If you are not yet working with a dataset in your research, you should first speak with your advisor to see they can reccomend a dataset to you. If your advisor cannot reccomend a dataset, please let me know and I will suggest one.
 
