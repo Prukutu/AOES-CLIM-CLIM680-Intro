@@ -1,7 +1,5 @@
 ---
 title: "Class Project"
-teaching: 0
-exercises: 0
 questions:
 - "What is expected for my class project?"
 objectives:
