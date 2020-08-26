@@ -66,7 +66,6 @@ The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Ea
 * Your computer (a tablet will not be sufficient)
 * Access to Blackboard. <a href="https://its.gmu.edu/knowledge-base/blackboard-instructional-technology-support-for-students/"> Need help with Blackboard?</a>
 * <a href="https://its.gmu.edu/service/zoom/">Zoom</a>
-* <a href="https://its.gmu.edu/service/office-365-onedrive/#:~:text=Student%20Eligibility,No%20sign%2Dup%20is%20necessary">OneDrive</a>
 * Microsoft Teams (You will receive an invitation link)
 * A Github Account (https://github.com/) [we will take care of this together in class]
 * Your own dataset [ we will work on this together in the first week of class]
@@ -85,9 +84,8 @@ The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Ea
 >
 > Access the Notebook for this class using MS Teams, by clicking on Class Notebook -> Collaboration Space -> Class Collaborative Documents -> Current Date
 >
-> 1. Add your name to the Roll Call in the Document
-> 2. This document is also accessible via OneNote in OneDrive. Can you find how to access it?
-> 3. Under Icebreaker in the document, describe your work in 3 words.
+> 1. Add your preferred name and pronouns to the Roll Call in the Document
+> 2. Under Icebreaker in the document, describe your work/reserach interests in 3 words.
 >
 {: .challenge}
 
@@ -105,11 +103,11 @@ _Live Coding_: One of the reasons you should attend class in person is that this
 
 #### _If you miss class_
 
-I understand, however that there can be various reasons for missing class and that connectivity issues do occur.  If you miss class for whatever reason, all the information will be available to you on the course Blackboard site, including:
-* Class materials, including hands-on activities, which are publicly available via Github (link will be provided in Blackboard).
-* Classes will be recorded in Zoom, and the video posted to Blackboard.
-* A shard OneDrive document will show information from each class period, including questions asked and links to additional reference information discussed in class. The link to the OneDrive document will be provided in Blackboard.
-* All assignments will be posted to Blackboard.
+I understand, however that there can be various reasons for missing class and that connectivity issues do occur.  If you miss class for whatever reason, all the information will be available to you on the course Blackboard site and Collaborative Document, including:
+* Link to class materials
+* Link to video of class
+* Link to Collaborative Document
+* Assignments posted in the Collaborative Document
 
 ### Continuity Plans
 
@@ -127,14 +125,14 @@ This course requires students to apply the analysis techniques learned in class 
 * Final Project: 50% (25% Github repository and website; 25% presentation)
 
 #### _Assignments_
-Assignments are provided most weeks and require you to add something to the previous week’s analysis of your dataset.  It is in your best interest to complete these assignments on time in order to keep up with the class.  Assignments will be posted to Blackboard and you will be expected to upload your assignment to Blackboard or provide a Github link to your submission. Instructions will be provided in class.
+Assignments are given most weeks and require you to add something to the previous week’s analysis of your dataset.  It is in your best interest to complete these assignments on time in order to keep up with the class.  Assignments will be given in class and indicated in the Collaborative document. Four(4) of the assignments will be formally graded.  You will provide me with a Github link in the Collaborative Document to turn in your assignment. Instructions will be provided in class.
 
 Assignments will be graded as satisfactory (A), not satisfactory (C), or not/minimally attempted (F) promptly after the due date. Feedback will be provided via Blackboard or Github Issues.
 
 If the assignment is graded not satisfactory or not attempted, you may redo the assignment until it is satisfactory until the last day of class (Dec 3). You must notify me if you wish me to re-grade a re-submitted assignment.
 
 #### _Final Project_
-You are also expected to complete a project with website in Github and give a presentation in class of your project. Project details will be provided in class and posted on Blackboard.
+In addition to the four graded assignments, You are also expected to complete a project with website in Github and give a presentation in class of your project. Project details will be provided in class and posted on Blackboard.
 
 #### _Exams_
 This class has no exams.
@@ -143,7 +141,7 @@ This class has no exams.
 
 #### _Academic integrity_
 
- It is expected that students adhere to the George Mason University Honor Code as it relates to integrity regarding coursework and grades.  The Honor Code reads as follows: To promote a stronger sense of mutual responsibility, respect, trust, and fairness among all members of the George Mason University community and with the desire for greater academic and personal achievement, we, the student members of the University Community have set forth this: Student members of the George Mason University community pledge __not__ to cheat, plagiarize, steal and/or lie in matters related to academic work. More information about the Honor Code, including definitions of cheating, lying, and plagiarism, can be found at the Office of Academic Integrity website at (http://oai.gmu.edu).  In this class, working together is strongly encouraged and doing so is not a violation of the Honor Code.  Each student must complete their own model runs, their own analysis codes and figures, and their own writeup of the assignment.
+ It is expected that students adhere to the George Mason University Honor Code as it relates to integrity regarding coursework and grades.  The Honor Code reads as follows: To promote a stronger sense of mutual responsibility, respect, trust, and fairness among all members of the George Mason University community and with the desire for greater academic and personal achievement, we, the student members of the University Community have set forth this: Student members of the George Mason University community pledge __not__ to cheat, plagiarize, steal and/or lie in matters related to academic work. More information about the Honor Code, including definitions of cheating, lying, and plagiarism, can be found at the Office of Academic Integrity website at (http://oai.gmu.edu).  __In this class, working together is strongly encouraged and doing so is not a violation of the Honor Code.  Each student must complete their own model runs, their own analysis codes and figures, and their own writeup of the assignment.__
 
 #### _Disability accomodations_
 <a href="http://dsgmu.wpengine.com/">Disability Services</a> at George Mason University is committed to providing equitable access to learning opportunities for all students by upholding the laws that ensure equal treatment of people with disabilities. If you are seeking accommodations for this class, please first visit <a href="http://dsgmu.wpengine.com/">Disability Services</a> for detailed information about the Disability Services registration process. Then please discuss your approved accommodations with me. Disability Services is located in Student Union Building I (SUB I), Suite 2500. Email: ods@gmu.edu | Phone: (703) 993-2474
