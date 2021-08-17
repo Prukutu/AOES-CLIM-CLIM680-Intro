@@ -63,14 +63,12 @@ Tuesday and Thursday @ 4:30-5:45, 121 Research Hall
 
 * Your computer (a tablet will not be sufficient)
 * Access to Blackboard. <a href="https://its.gmu.edu/knowledge-base/blackboard-instructional-technology-support-for-students/"> Need help with Blackboard?</a>
-<!-- * <a href="https://its.gmu.edu/service/zoom/">Zoom</a>
-* Microsoft Teams (You will receive an invitation link) -->
 * A Github Account (https://github.com/) [we will take care of this together in class]
 * Your own dataset [ we will work on this together in the first week of class]
 * COLA Computer Account [we will take care of this together during the first week of class]
 * There is no required book for this course.
 
-<!--> ## Interacting using MS Teams
+<!-- > ## Interacting using MS Teams
 >
 > * Access the MS Team for this course
 > * Send a short message to the Team telling us why you are taking this class
@@ -85,7 +83,8 @@ Tuesday and Thursday @ 4:30-5:45, 121 Research Hall
 > 1. Add your preferred name and pronouns to the Roll Call in the Document
 > 2. Under Icebreaker in the document, describe your work/reserach interests in 3 words.
 >
-{: .challenge}-->
+{: .challenge}
+-->
 
 ### Best ways to contact us
 
