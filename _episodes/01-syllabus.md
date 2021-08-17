@@ -89,30 +89,30 @@ Tuesday and Thursday @ 4:30-5:45, 121 Research Hall
 
 ### Best ways to contact us
 
-1. _Email_: We will respond to emails within 24hrs during the work week and on Mon morning for emails that arrive over the weekend.  If you have not heard a response by this time, then I may not have received your email, so please re-send.
-3. _Office Hours_: Please email us if you wish to meet outside of class and we will schedule a time to meet in person or via Blackboard Collaborate Ultra.
+1. _Email_: We will respond to emails within 24hrs during the work week and on Mon morning for emails that arrive over the weekend.  If you have not heard a response by this time, then we may not have received your email, so please re-send.
+3. _Office Hours_: Please email us both if you wish to meet outside of class and we will schedule a time to meet in person or via Blackboard Collaborate Ultra.
 
 ### Class Attendance
 
-This is a synchronous, online course which means that it meets regularly online at a specified day and time. It is in your best interest to attend class during the scheduled class time.
+This is a face-to-face course. It is in your best interest to attend class during the scheduled class time - please don't be late.
 
-_Live Coding_: One of the reasons you should attend class in person is that this class will utilize a methodology called “Live Coding”.  This means you will follow along with me while I share and write code on the screen and explain the code as I go.  There will be no powerpoint presentations. This method is shown to be effective because it slows down the pace so everyone can keep up, forces me to take the time to explain what I am doing, helps you get accustomed to running codes yourself on your computer setup, and lets you see me make mistakes and how to correct them.
+_Live Coding_: One of the reasons you should attend class in person is that this class will utilize a methodology called “Live Coding”.  This means you will follow along with me while we share and write code on the screen and explain the code as we go.  There will be no PowerPoint presentations. This method is shown to be effective because it slows down the pace so everyone can keep up, forces me to take the time to explain what we are doing, helps you get accustomed to running codes yourself on your computer setup, and lets us see you make mistakes and how to correct them.
 
 #### _If you miss class_
 
-I understand, however that there can be various reasons for missing class and that connectivity issues do occur.  If you miss class for whatever reason, all the information will be available to you on the course Blackboard site and Collaborative Document, including:
+We understand, however that there can be various reasons for missing class and that connectivity issues do occur.  If you miss class for whatever reason, all the lesson material will be available online.<!--, including:
 * Link to class materials
 * Link to video of class
 * Link to Collaborative Document
-* Assignments posted in the Collaborative Document
+* Assignments posted in the Collaborative Document-->
 
 ### Continuity Plans
 
 Given the current times, there are constant changes and new University guidance regarding University operations.  There is also the possibility that a student, instructor, or family member that they care for may become ill and alternate arragements will need to be made.
 
-We will follow all University guidance.  Typically I learn official University guidance at the same time as you.  I will promptly follow up with you via email and MS Teams about how the latest guidance impacts this class.
+We will follow all University guidance.  Typically we learn official University guidance at the same time as you.  We will promptly follow up with you <!--via email and MS Teams -->about how the latest guidance impacts this class.
 
-In the event that you as a student are unable to continue with the course, please notify me immediately so that we can discuss your options.  In the event that I as the Instructor am unable to continue teaching this course, it will continue as planned at the same day/time with a backup instructor.
+In the event that you as a student are unable to continue with the course, please notify us immediately so that we can discuss your options.  With two Instructors, hopefully there will be no disruptions, but we will continue as planned at the same day/time with a backup instructor if necessary.
 
 ### How will you be graded?
 
@@ -122,7 +122,7 @@ This course requires students to apply the analysis techniques learned in class 
 * Final Project: 50% (25% Github repository and website; 25% presentation)
 
 #### _Assignments_
-Assignments are given most weeks and require you to add something to the previous week’s analysis of your dataset.  It is in your best interest to complete these assignments on time in order to keep up with the class.  Assignments will be given in class and indicated in the Collaborative document. Four(4) of the assignments will be formally graded.  You will provide me with a Github link in the Collaborative Document to turn in your assignment. Instructions will be provided in class.
+Assignments are given most weeks and require you to add something to the previous week’s analysis of your dataset.  It is in your best interest to complete these assignments on time in order to keep up with the class.  Assignments will be given in class. Several of the assignments will be formally graded. You will provide a Github link to turn in your assignment. Instructions will be provided in class.
 
 Assignments will be graded as satisfactory (A), not satisfactory (C), or not/minimally attempted (F) promptly after the due date. Feedback will be provided via Blackboard or Github Issues.
 
