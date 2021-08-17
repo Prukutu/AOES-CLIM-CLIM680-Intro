@@ -95,21 +95,17 @@ Tuesday and Thursday @ 4:30-5:45, 121 Research Hall
 
 This is a face-to-face course. It is in your best interest to attend class during the scheduled class time - please don't be late.
 
-_Live Coding_: One of the reasons you should attend class in person is that this class will utilize a methodology called “Live Coding”.  This means you will follow along with me while we share and write code on the screen and explain the code as we go.  There will be no PowerPoint presentations. This method is shown to be effective because it slows down the pace so everyone can keep up, forces me to take the time to explain what we are doing, helps you get accustomed to running codes yourself on your computer setup, and lets us see you make mistakes and how to correct them.
+_Live Coding_: One of the reasons you should attend class in person is that this class will utilize a methodology called “Live Coding”.  This means you will follow along with the Instructor(s) while we share and write code on the screen and explain the code as we go.  There will be no PowerPoint presentations. This method is shown to be effective because it slows down the pace so everyone can keep up, allows us to take the time to explain what we are doing, helps you get accustomed to running codes yourself on your computer setup, and lets us see you make mistakes and how to correct them.
 
 #### _If you miss class_
 
-We understand, however that there can be various reasons for missing class and that connectivity issues do occur.  If you miss class for whatever reason, all the lesson material will be available online.<!--, including:
-* Link to class materials
-* Link to video of class
-* Link to Collaborative Document
-* Assignments posted in the Collaborative Document-->
+We understand, however that there can be various reasons for missing class and that connectivity issues do occur.  If you miss class for whatever reason, all the lesson material will be available online.
 
 ### Continuity Plans
 
 Given the current times, there are constant changes and new University guidance regarding University operations.  There is also the possibility that a student, instructor, or family member that they care for may become ill and alternate arragements will need to be made.
 
-We will follow all University guidance.  Typically we learn official University guidance at the same time as you.  We will promptly follow up with you <!--via email and MS Teams -->about how the latest guidance impacts this class.
+We will follow all University guidance.  Typically we learn official University guidance at the same time as you.  We will promptly follow up with you about how the latest guidance impacts this class.
 
 In the event that you as a student are unable to continue with the course, please notify us immediately so that we can discuss your options.  With two Instructors, hopefully there will be no disruptions, but we will continue as planned at the same day/time with a backup instructor if necessary.
 
@@ -125,26 +121,34 @@ Assignments are given most weeks and require you to add something to the previou
 
 Assignments will be graded as satisfactory (A), not satisfactory (C), or not/minimally attempted (F) promptly after the due date. Feedback will be provided via Blackboard or Github Issues.
 
-If the assignment is graded not satisfactory or not attempted, you may redo the assignment until it is satisfactory until the last day of class (Dec 3). You must notify me if you wish me to re-grade a re-submitted assignment.
+If the assignment is graded not satisfactory or not attempted, you may redo the assignment until it is satisfactory until the last day of class (Dec 3). You must notify us if/when you wish to us to re-grade a re-submitted assignment.
 
 #### _Final Project_
-In addition to the four graded assignments, You are also expected to complete a project with website in Github and give a presentation in class of your project. Project details will be provided in class and posted on Blackboard.
+In addition to the four graded assignments, You are also expected to complete a project with a website in Github and give a presentation in class of your project. Project details will be provided in class and posted on Blackboard.
 
 #### _Exams_
 This class has no exams.
 
 ### University Policies
 
+#### _Evolving COVID Situation_ 
+
+All students are required to follow the university’s public health and safety precautions and procedures outlined on the university Safe Return to Campus webpage (https://www2.gmu.edu/safe-return-campus). All students in this course must also complete the Mason COVID Health Check daily. Only students who receive a green notification are permitted to attend courses in class. Faculty are allowed to ask you to show them your green notification. If you suspect that you are sick or have been directed to self-isolate, please quarantine and get testing.
+
+GMU requires vaccinations for all students who work, study, or live on campus. This includes those who attend classes. There is nothing better than the in-person learning experience, but if you have a medical or religious exemption, we will set up an online live stream of the lectures via Blackboard. We will also set up the streaming option on Blackboard in the case of excused absence options for students receiving vaccination, with side effects after vaccination, or receiving positive test results or diagnosis requiring quarantine. __Let us know in advance of class if you need the streaming option.__ If you are healthy – please be in class!  
+
+If the campus closes, or if a class meeting needs to be canceled or adjusted due to weather or other reasons, notices will be posted to Blackboard and emailed to all registered students. 
+
 #### _Academic integrity_
 
- It is expected that students adhere to the George Mason University Honor Code as it relates to integrity regarding coursework and grades.  The Honor Code reads as follows: To promote a stronger sense of mutual responsibility, respect, trust, and fairness among all members of the George Mason University community and with the desire for greater academic and personal achievement, we, the student members of the University Community have set forth this: Student members of the George Mason University community pledge __not__ to cheat, plagiarize, steal and/or lie in matters related to academic work. More information about the Honor Code, including definitions of cheating, lying, and plagiarism, can be found at the Office of Academic Integrity website at (http://oai.gmu.edu).  __In this class, working together is strongly encouraged and doing so is not a violation of the Honor Code.  Each student must complete their own model runs, their own analysis codes and figures, and their own writeup of the assignment.__
+It is expected that students adhere to the George Mason University Honor Code as it relates to integrity regarding coursework and grades.  The Honor Code reads as follows: To promote a stronger sense of mutual responsibility, respect, trust, and fairness among all members of the George Mason University community and with the desire for greater academic and personal achievement, we, the student members of the University Community have set forth this: Student members of the George Mason University community pledge __not__ to cheat, plagiarize, steal and/or lie in matters related to academic work. More information about the Honor Code, including definitions of cheating, lying, and plagiarism, can be found at the Office of Academic Integrity website at (http://oai.gmu.edu).  __In this class, working together is strongly encouraged and doing so is not a violation of the Honor Code.  Each student must complete their own model runs, their own analysis codes and figures, and their own writeup of the assignment.__
 
 #### _Disability accomodations_
 <a href="http://dsgmu.wpengine.com/">Disability Services</a> at George Mason University is committed to providing equitable access to learning opportunities for all students by upholding the laws that ensure equal treatment of people with disabilities. If you are seeking accommodations for this class, please first visit <a href="http://dsgmu.wpengine.com/">Disability Services</a> for detailed information about the Disability Services registration process. Then please discuss your approved accommodations with me. Disability Services is located in Student Union Building I (SUB I), Suite 2500. Email: ods@gmu.edu | Phone: (703) 993-2474
 
 #### _Sexual Harassment, Sexual Misconduct, and Interpersonal Violence_
 
-As a faculty member and designated _Responsible Employee_, I am required to report all disclosures of sexual assault, interpersonal violence, and stalking to Mason’s Title IX Coordinator per university policy 1412. If you wish to speak with someone confidentially, please contact the Student Support and Advocacy Center (703-380-1434) or Counseling and Psychological Services (703-993-2380). You may also seek assistance from Mason’s Title IX Coordinator (703-993-8730; titleix@gmu.edu).
+As faculty members and designated _Responsible Employee_, we are required to report all disclosures of sexual assault, interpersonal violence, and stalking to Mason’s Title IX Coordinator per university policy 1412. If you wish to speak with someone confidentially, please contact the Student Support and Advocacy Center (703-380-1434) or Counseling and Psychological Services (703-993-2380). You may also seek assistance from Mason’s Title IX Coordinator (703-993-8730; titleix@gmu.edu).
 
 #### _Diversity and Inclusion_
 
@@ -175,12 +179,12 @@ An important component of inclusivity is to be aware of how our communication im
 
 #### _Religious Holidays_
 
-It your responsibility to notify me within the first two weeks of the semester of any religious holidays in which you will be absent or unavailable due to religious observances.
+It your responsibility to notify us within the first two weeks of the semester of any occasions when you will be absent or unavailable due to religious observances.
 
 #### _Privacy_
 
 Student privacy is governed by the Family Educational Rights and Privacy Act (FERPA) and is an essential aspect of any course.
-Students must use their MasonLive email account to receive important University information, including communications related to this class. I will not respond to messages sent from or send messages to a non-Mason email address. As a reminder this class will be recorded.
+Students must use their Mason email account to receive important University information, including communications related to this class. We cannot, in the interest of academic privacy, respond to messages sent from or send messages to a non-Mason email address.
 
 ### _Student Support Services_
 <p>
@@ -189,9 +193,9 @@ A complete list of <a href="(https://stearnscenter.gmu.edu/knowledge-center/know
 <p><a href="http://library.gmu.edu">University Libraries</a></p>
 <p><a href="http://writingcenter.gmu.edu">Writing Center</a></p>
 <p><a href="http://caps.gmu.edu">Counseling and Psychological Services</a></p>
-### Feedback
 
-When teaching online, it can be more difficult for me to gauge student understanding than in person.  In person, I can usually see on a student’s face whether they understand something or not.  This is much more difficult in an online environment.  Additionally, I am consistently working to make my online courses as engaging and effective as possible.  Feedback will be regularly requested at the end of each class period and provide information to adapt the course throughout the semester for this specific class. Additionally, a post course survey will provided to get your overall feedback on the course separate from standard course evaluations which do not provide sufficient useful information for improving the course.  Please help to develop this course by providing feedback so that the course can improve and adapt.
+### Feedback
+Feedback is always welcome and will be regularly requested at the end of each class period. Additionally, a post course survey will provided to get your overall feedback on the course separate from standard university-administered course evaluations, which do not provide sufficient useful information for improving the course. Please help to develop this course by providing feedback so that the course can improve and adapt.
 
 {% include links.md %}
 
