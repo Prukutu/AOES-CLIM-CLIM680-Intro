@@ -55,9 +55,9 @@ Tuesday and Thursday @ 4:30-5:45, 121 Research Hall
 >    * Selecting rename and changing the name that appears for you to your preferred name
 > 3. Raise your hand when you are done
 > 4. I will call out each person in the order they appear on my screen, unmute yourself, correct the pronounciation of your name, and tell us 1 thing you would like us to know about you
->
-{: .challenge}
 -->
+{: .challenge}
+
 
 ### Materials
 
