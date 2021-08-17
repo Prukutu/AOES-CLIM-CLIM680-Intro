@@ -31,7 +31,7 @@ Tuesday and Thursday @ 4:30-5:45, 121 Research Hall
 >
 {: .prereq}
 
-<! –– ### How will this class work in Zoom?
+<!–– ### How will this class work in Zoom?
 
 * Registered students will receive a recurring Zoom invitation for this class that will contain the link.
 * If your bandwidth allows and you are comfortable doing so, please leave your camera on. I will aim to do the same.
