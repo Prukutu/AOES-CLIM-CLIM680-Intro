@@ -63,8 +63,8 @@ Tuesday and Thursday @ 4:30-5:45, 121 Research Hall
 
 * Your computer (a tablet will not be sufficient)
 * Access to Blackboard. <a href="https://its.gmu.edu/knowledge-base/blackboard-instructional-technology-support-for-students/"> Need help with Blackboard?</a>
-<!--* <a href="https://its.gmu.edu/service/zoom/">Zoom</a>
-* Microsoft Teams (You will receive an invitation link)-->
+<!-- * <a href="https://its.gmu.edu/service/zoom/">Zoom</a>
+* Microsoft Teams (You will receive an invitation link) -->
 * A Github Account (https://github.com/) [we will take care of this together in class]
 * Your own dataset [ we will work on this together in the first week of class]
 * COLA Computer Account [we will take care of this together during the first week of class]
