@@ -63,14 +63,14 @@ Tuesday and Thursday @ 4:30-5:45, 121 Research Hall
 
 * Your computer (a tablet will not be sufficient)
 * Access to Blackboard. <a href="https://its.gmu.edu/knowledge-base/blackboard-instructional-technology-support-for-students/"> Need help with Blackboard?</a>
-<!--* <a href="https://its.gmu.edu/service/zoom/">Zoom</a>-->
-* Microsoft Teams (You will receive an invitation link)
+<!--* <a href="https://its.gmu.edu/service/zoom/">Zoom</a>
+* Microsoft Teams (You will receive an invitation link)-->
 * A Github Account (https://github.com/) [we will take care of this together in class]
 * Your own dataset [ we will work on this together in the first week of class]
 * COLA Computer Account [we will take care of this together during the first week of class]
 * There is no required book for this course.
 
-> ## Interacting using MS Teams
+<!--> ## Interacting using MS Teams
 >
 > * Access the MS Team for this course
 > * Send a short message to the Team telling us why you are taking this class
@@ -85,13 +85,12 @@ Tuesday and Thursday @ 4:30-5:45, 121 Research Hall
 > 1. Add your preferred name and pronouns to the Roll Call in the Document
 > 2. Under Icebreaker in the document, describe your work/reserach interests in 3 words.
 >
-{: .challenge}
+{: .challenge}-->
 
-### Best ways to contact me
+### Best ways to contact us
 
-1. _MS Teams_: This is the most efficient way to contact me and receive a reply. During normal work hours, I will likely respond to you within an hour or two if I am at my computer.
-2. _Email_: I typically respond to emails within 24hrs during the work week and on Mon morning for emails that arrive over the weekend.  If you have not heard a response by this time, then I may not have received your email, so please re-send.
-3. _Office Hours_: Please email me if you wish to meet individually and we will schedule a time to meet in Zoom.
+1. _Email_: We will respond to emails within 24hrs during the work week and on Mon morning for emails that arrive over the weekend.  If you have not heard a response by this time, then I may not have received your email, so please re-send.
+3. _Office Hours_: Please email us if you wish to meet outside of class and we will schedule a time to meet in person or via Blackboard Collaborate Ultra.
 
 ### Class Attendance
 
