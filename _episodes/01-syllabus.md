@@ -31,7 +31,7 @@ Tuesday and Thursday @ 4:30-5:45, 121 Research Hall
 >
 {: .prereq}
 
-<!–– ### How will this class work in Zoom?
+<!-- ### How will this class work in Zoom?
 
 * Registered students will receive a recurring Zoom invitation for this class that will contain the link.
 * If your bandwidth allows and you are comfortable doing so, please leave your camera on. I will aim to do the same.
@@ -55,9 +55,9 @@ Tuesday and Thursday @ 4:30-5:45, 121 Research Hall
 >    * Selecting rename and changing the name that appears for you to your preferred name
 > 3. Raise your hand when you are done
 > 4. I will call out each person in the order they appear on my screen, unmute yourself, correct the pronounciation of your name, and tell us 1 thing you would like us to know about you
--->
+>
 {: .challenge}
-
+-->
 
 ### Materials
 
