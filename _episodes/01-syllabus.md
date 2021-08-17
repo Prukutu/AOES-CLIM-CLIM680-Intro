@@ -14,11 +14,11 @@ keypoints:
 
 ### Instructor
 
-[Prof. Kathy Pegion](https://kathypegion.com)
+[Prof. Natalie Burls and Paul Dirmeyer]
 
 Dept. Atmospheric, Oceanic, and Earth Sciences
 
-Email: kpegion at gmu dot edu
+Email: nburls at gmu dot edu OR pdirmeyer at gmu edu
 
 ### Meeting Days/Times
 
