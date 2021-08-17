@@ -12,9 +12,9 @@ keypoints:
 
 ## CLIM 680 Climate Data Analysis
 
-### Instructor
+### Instructors
 
-[Prof. Natalie Burls and Paul Dirmeyer]
+Prof. Natalie Burls and Paul Dirmeyer
 
 Dept. Atmospheric, Oceanic, and Earth Sciences
 
@@ -22,9 +22,7 @@ Email: nburls at gmu dot edu OR pdirmeyer at gmu edu
 
 ### Meeting Days/Times
 
-Thurs @ 10:30-13:10 by Zoom 
-
-The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Each part will start promptly.
+Tuesday and Thursday @ 4:30-5:45, 121 Research Hall 
 
 > ## Prerequisites
 >
@@ -33,7 +31,7 @@ The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Ea
 >
 {: .prereq}
 
-### How will this class work in Zoom?
+<! –– ### How will this class work in Zoom?
 
 * Registered students will receive a recurring Zoom invitation for this class that will contain the link.
 * If your bandwidth allows and you are comfortable doing so, please leave your camera on. I will aim to do the same.
@@ -59,7 +57,7 @@ The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Ea
 > 4. I will call out each person in the order they appear on my screen, unmute yourself, correct the pronounciation of your name, and tell us 1 thing you would like us to know about you
 >
 {: .challenge}
-
+-->
 
 ### Materials
 
