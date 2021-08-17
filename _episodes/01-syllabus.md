@@ -5,8 +5,8 @@ questions:
 objectives:
 - "To define how this online class will operate and make sure that all learners know how to access and operate the required technology"
 keypoints:
-- "This class meets via Zoom"
-- "This class will use MS Teams and a Collaborative Document"
+- "This class meets in person"
+- "This class will use Blackboard"
 - "This class will request feedback often"
 ---
 
@@ -63,7 +63,7 @@ Tuesday and Thursday @ 4:30-5:45, 121 Research Hall
 
 * Your computer (a tablet will not be sufficient)
 * Access to Blackboard. <a href="https://its.gmu.edu/knowledge-base/blackboard-instructional-technology-support-for-students/"> Need help with Blackboard?</a>
-* <a href="https://its.gmu.edu/service/zoom/">Zoom</a>
+<!--* <a href="https://its.gmu.edu/service/zoom/">Zoom</a>-->
 * Microsoft Teams (You will receive an invitation link)
 * A Github Account (https://github.com/) [we will take care of this together in class]
 * Your own dataset [ we will work on this together in the first week of class]
