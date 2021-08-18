@@ -24,7 +24,7 @@ Email: nburls at gmu dot edu OR pdirmeyer at gmu edu
 
 Tuesday and Thursday @ 4:30-5:45, 121 Research Hall 
 
-<a href="https://nburls.github.io/CLIM680-Climate-Data/">Weekly schedule</a>
+<a href="https://nburls.github.io/CLIM680-Climate-Data/"><b>Weekly schedule</b></a>
 
 > ## Prerequisites
 >
