@@ -100,13 +100,13 @@ This is a face-to-face course. It is in your best interest to attend class durin
 
 _Live Coding_: One of the reasons you should attend class in person is that this class will utilize a methodology called “Live Coding”.  This means you will follow along with the Instructor(s) while we share and write code on the screen and explain the code as we go. There will be no PowerPoint presentations. This method is shown to be effective because it slows down the pace so everyone can keep up, allows us to take the time to explain what we are doing, helps you get accustomed to running codes yourself on your computer setup, and lets us see you make mistakes and how to correct them. Real-time diagnosis helps you learn faster.
 
-#### Tech Issues
-
-We will try to minimize any technology issues and promptly address problems that arise on our end with the resources where we as instructors have responsibility (e.g., Blackboard content, COLA computing).  However, you are responsible for the tech in your possession (namely your laptop, but also your network access). If you are having problems with your hardware that require service or repair, please let us know promptly so we can try to accommodate your disruption.
-
 #### _If you miss class_
 
 We understand that there can be various reasons for missing class.  If you miss class for whatever reason, all the lesson material will be available online.
+
+### Tech Issues
+
+We will try to minimize any technology issues and promptly address problems that arise on our end with the resources where we as instructors have responsibility (e.g., Blackboard content, COLA computing).  However, you are responsible for the tech in your possession (namely your laptop, but also your network access). If you are having problems with your hardware that require service or repair, please let us know promptly so we can try to accommodate your disruption.
 
 ### Continuity Plans
 
