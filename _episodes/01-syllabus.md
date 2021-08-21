@@ -90,18 +90,23 @@ Tuesday and Thursday @ 4:30-5:45, 121 Research Hall
 
 ### Best ways to contact us
 
-1. _Email_: We will respond to emails within 24hrs during the work week and on Mon morning for emails that arrive over the weekend.  If you have not heard a response by this time, then we may not have received your email, so please re-send.
-3. _Office Hours_: Please email us both if you wish to meet outside of class and we will schedule a time to meet in person or via Blackboard Collaborate Ultra.
+1. _Blackboard Discussion Board_: For general questions, problems, etc. addressed to the other students as well as instructors.  We realize there is a wide range of expertise among the students and instructors - we can all help each other solve problems and learn via this open forum.
+2. _Email_: For questions directed only to the instructors. We will respond to emails within 24hrs during the work week and on Mon morning for emails that arrive over the weekend.  If you have not heard a response by this time, then we may not have received your email, so please re-send.
+4. _Office Hours_: Please email us both if you wish to meet outside of class and we will schedule a time to meet in person or via Blackboard Collaborate Ultra.
 
 ### Class Attendance
 
 This is a face-to-face course. It is in your best interest to attend class during the scheduled class time - please don't be late.
 
-_Live Coding_: One of the reasons you should attend class in person is that this class will utilize a methodology called “Live Coding”.  This means you will follow along with the Instructor(s) while we share and write code on the screen and explain the code as we go.  There will be no PowerPoint presentations. This method is shown to be effective because it slows down the pace so everyone can keep up, allows us to take the time to explain what we are doing, helps you get accustomed to running codes yourself on your computer setup, and lets us see you make mistakes and how to correct them.
+_Live Coding_: One of the reasons you should attend class in person is that this class will utilize a methodology called “Live Coding”.  This means you will follow along with the Instructor(s) while we share and write code on the screen and explain the code as we go. There will be no PowerPoint presentations. This method is shown to be effective because it slows down the pace so everyone can keep up, allows us to take the time to explain what we are doing, helps you get accustomed to running codes yourself on your computer setup, and lets us see you make mistakes and how to correct them. Real-time diagnosis helps you learn faster.
+
+#### Tech Issues
+
+We will try to minimize any technology issues and promptly address problems that arise on our end with the resources where we as instructors have responsibility (e.g., Blackboard content, COLA computing).  However, you are responsible for the tech in your possession (namely your laptop, but also your network access). If you are having problems with your hardware that require service or repair, please let us know promptly so we can try to accommodate your disruption.
 
 #### _If you miss class_
 
-We understand, however that there can be various reasons for missing class and that connectivity issues do occur.  If you miss class for whatever reason, all the lesson material will be available online.
+We understand that there can be various reasons for missing class.  If you miss class for whatever reason, all the lesson material will be available online.
 
 ### Continuity Plans
 
@@ -119,14 +124,14 @@ This course requires students to apply the analysis techniques learned in class 
 * Final Project: 50% (25% Github repository and website; 25% presentation)
 
 #### _Assignments_
-Assignments are given most weeks and require you to add something to the previous week’s analysis of your dataset.  It is in your best interest to complete these assignments on time in order to keep up with the class.  Assignments will be given in class. Several of the assignments will be formally graded. You will provide a Github link to turn in your assignment. Instructions will be provided in class.
+Assignments are given most weeks and require you to add something to the previous week’s analysis of your dataset, building on your work.  It is in your best interest to complete these assignments on time in order to keep up with the class.  Assignments will be given in class. Several of the assignments will be formally graded. **You will turn in each assignment by providing a Github link to it.** Instructions will be provided in class.
 
 Assignments will be graded as satisfactory (A), not satisfactory (C), or not/minimally attempted (F) promptly after the due date. Feedback will be provided via Blackboard or Github Issues.
 
-If the assignment is graded not satisfactory or not attempted, you may redo the assignment until it is satisfactory until the last day of class (Dec 3). You must notify us if/when you wish to us to re-grade a re-submitted assignment.
+If the assignment is graded not satisfactory or not attempted, **you may redo the assignment** until it is satisfactory until the last day of class (Dec 3). You must notify us if/when you wish us to re-grade a re-submitted assignment.
 
 #### _Final Project_
-In addition to the four graded assignments, You are also expected to complete a project with a website in Github and give a presentation in class of your project. Project details will be provided in class and posted on Blackboard.
+In addition to the graded assignments, You are also expected to complete a project with a website in Github and give a presentation in class of your project. Project details will be provided in class and posted on Blackboard.
 
 #### _Exams_
 This class has no exams.
@@ -137,7 +142,9 @@ This class has no exams.
 
 All students are required to follow the university’s public health and safety precautions and procedures outlined on the university Safe Return to Campus webpage (https://www2.gmu.edu/safe-return-campus). All students in this course must also complete the Mason COVID Health Check daily. Only students who receive a green notification are permitted to attend courses in class. Faculty are allowed to ask you to show them your green notification. If you suspect that you are sick or have been directed to self-isolate, please quarantine and get testing.
 
-GMU requires vaccinations for all students who work, study, or live on campus. This includes those who attend classes. There is nothing better than the in-person learning experience, but if you have a medical or religious exemption, we will set up an online live stream of the lectures via Blackboard. We will also set up the streaming option on Blackboard in the case of excused absence options for students receiving vaccination, with side effects after vaccination, or receiving positive test results or diagnosis requiring quarantine. __Let us know in advance of class if you need the streaming option.__ If you are healthy – please be in class!  
+GMU requires vaccinations for all students who work, study, or live on campus unless you have a documented medical or religious exemption. This includes those who attend classes. There is nothing better than the in-person learning experience. We will also set up the streaming option on Blackboard in the case of excused absence including for students receiving a vaccination, with side effects after vaccination, or receiving positive test results or diagnosis requiring quarantine. __Let us know in advance of class if you need the streaming option.__ If you are healthy – please be in class!  
+
+The daily COVID-19 screening is required and we as instructors may ask you to show that you have a "green" screening for the day. In fact, you may also ask your instructors to show a green screening! If you receive a screening result other than green, do not come to campus or attend class in person - let us know that you need to attend the course remotely.
 
 If the campus closes, or if a class meeting needs to be canceled or adjusted due to weather or other reasons, notices will be posted to Blackboard and emailed to all registered students. 
 
@@ -177,7 +184,7 @@ An important component of inclusivity is to be aware of how our communication im
 * Limit or eliminate the use of exclamation points, bolding, capital letters, and emoticons.
 * Change subject lines of email chains regularly.
 * Plan carefully who to CC on messages.
-* Edit meticulously.
+* **Proofread what you write before sending - edit meticulously.**
 
 #### _Religious Holidays_
 
