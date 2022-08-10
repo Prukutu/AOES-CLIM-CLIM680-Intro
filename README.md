@@ -1,3 +1,3 @@
 # styles
  
-Please use the `gh-pages` branch
+Please use the `gh-pages` branch.
