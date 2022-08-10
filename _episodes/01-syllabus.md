@@ -14,17 +14,17 @@ keypoints:
 
 ### Instructors
 
-Prof. Natalie Burls and Paul Dirmeyer
+Prof. Paul Dirmeyer and Luis Ortiz Uriarte
 
 Dept. Atmospheric, Oceanic, and Earth Sciences
 
-Email: nburls at gmu dot edu OR pdirmeyer at gmu edu
+Email: pdirmeye at gmu dot edu OR lortizur at gmu edu
 
 ### Meeting Days/Times
 
 Tuesday and Thursday @ 4:30-5:45, 121 Research Hall 
 
-<a href="https://nburls.github.io/CLIM680-Climate-Data/"><b>Weekly schedule</b></a>
+<a href="https://pdirmeyer.github.io/CLIM680-Climate-Data/"><b>Weekly schedule</b></a>
 
 > ## Prerequisites
 >
@@ -63,11 +63,11 @@ Tuesday and Thursday @ 4:30-5:45, 121 Research Hall
 
 ### Materials
 
-* Your computer (a tablet will not be sufficient)
+* Your laptop computer (a tablet will not be sufficient)
 * Access to Blackboard. <a href="https://its.gmu.edu/knowledge-base/blackboard-instructional-technology-support-for-students/"> Need help with Blackboard?</a>
-* A Github Account (https://github.com/) [we will take care of this together in class]
-* Your own dataset [ we will work on this together in the first week of class]
-* COLA Computer Account [we will take care of this together during the first week of class]
+* A Github Account (https://github.com/) (we will take care of this together in class)
+* Your own dataset (we will work on this together in the first week of class)
+* GMU Computer Account. If you do not have an account on GMU's high performance computing system (Hopper or Argo) visit the [Office of Research Computing (ORC) website](https://orc.gmu.edu/new-user-information/) and click on "ORC Account Request Form")
 * There is no required book for this course.
 
 <!-- > ## Interacting using MS Teams
@@ -102,11 +102,11 @@ _Live Coding_: One of the reasons you should attend class in person is that this
 
 #### _If you miss class_
 
-We understand that there can be various reasons for missing class.  If you miss class for whatever reason, all the lesson material will be available online.
+We understand that there can be various reasons for missing class.  If you miss class for whatever reason, the lesson material will be available online.
 
 ### Tech Issues
 
-We will try to minimize any technology issues and promptly address problems that arise on our end with the resources where we as instructors have responsibility (e.g., Blackboard content, COLA computing).  However, you are responsible for the tech in your possession (namely your laptop, but also your network access). If you are having problems with your hardware that require service or repair, please let us know promptly so we can try to accommodate your disruption.
+We will try to minimize any technology issues and promptly address problems that arise on our end with the resources where we as instructors have responsibility (e.g., Blackboard content, provided code samples).  However, you are responsible for the tech in your possession (namely your laptop, but also your network access). If you are having problems with your hardware that require service or repair, please let us know promptly so we can try to accommodate your disruption.
 
 ### Continuity Plans
 
@@ -128,7 +128,7 @@ Assignments are given most weeks and require you to add something to the previou
 
 Assignments will be graded as satisfactory (A), not satisfactory (C), or not/minimally attempted (F) promptly after the due date. Feedback will be provided via Blackboard or Github Issues.
 
-If the assignment is graded not satisfactory or not attempted, **you may redo the assignment** until it is satisfactory until the last day of class (Dec 3). You must notify us if/when you wish us to re-grade a re-submitted assignment.
+If the assignment is graded not satisfactory or not attempted, **you may redo the assignment** until it is satisfactory until the last day of class (Dec 3). The point of analysis with climate data is to get it done right... ultimately! There is no shame in revising work to make it better - coding is an iterative process. But you must notify us if/when you wish us to re-grade a re-submitted assignment.
 
 #### _Final Project_
 In addition to the graded assignments, You are also expected to complete a project with a website in Github and give a presentation in class of your project. Project details will be provided in class and posted on Blackboard.
@@ -140,17 +140,15 @@ This class has no exams.
 
 #### _Evolving COVID Situation_ 
 
-All students are required to follow the university’s public health and safety precautions and procedures outlined on the university Safe Return to Campus webpage (https://www2.gmu.edu/safe-return-campus). All students in this course must also complete the Mason COVID Health Check daily. Only students who receive a green notification are permitted to attend courses in class. Faculty are allowed to ask you to show them your green notification. If you suspect that you are sick or have been directed to self-isolate, please quarantine and get testing.
+All students are required to follow the university’s public health and safety precautions and procedures outlined on the university [Safe Return to Campus webpage](https://www2.gmu.edu/safe-return-campus). Mason classrooms are mask-optional, but masks are encouraged, especially in close quarters or where ventilation is low. If you're more comfortable wearing a mask, feel free to continue. If you feel ill or test positive for COVID, please do not attend class, inform the instructor and observe [quarantine guidance](https://www.gmu.edu/safe-return-campus/personal-and-public-health/isolation-and-quarantine).
 
-GMU requires vaccinations for all students who work, study, or live on campus unless you have a documented medical or religious exemption. This includes those who attend classes. There is nothing better than the in-person learning experience. We will also set up the streaming option on Blackboard in the case of excused absence including for students receiving a vaccination, with side effects after vaccination, or receiving positive test results or diagnosis requiring quarantine. __Let us know in advance of class if you need the streaming option.__ If you are healthy – please be in class!  
-
-The daily COVID-19 screening is required and we as instructors may ask you to show that you have a "green" screening for the day. In fact, you may also ask your instructors to show a green screening! If you receive a screening result other than green, do not come to campus or attend class in person - let us know that you need to attend the course remotely.
+GMU strongly recommends vaccinations for all students who work, study, or live on campus. This includes those who attend classes. There is nothing better than the in-person learning experience. Mason offers flexible excused absence options for students receiving vaccination and those with side effects after vaccination. If you are healthy – please be in class!  
 
 If the campus closes, or if a class meeting needs to be canceled or adjusted due to weather or other reasons, notices will be posted to Blackboard and emailed to all registered students. 
 
 #### _Academic integrity_
 
-It is expected that students adhere to the George Mason University Honor Code as it relates to integrity regarding coursework and grades.  The Honor Code reads as follows: To promote a stronger sense of mutual responsibility, respect, trust, and fairness among all members of the George Mason University community and with the desire for greater academic and personal achievement, we, the student members of the University Community have set forth this: Student members of the George Mason University community pledge __not__ to cheat, plagiarize, steal and/or lie in matters related to academic work. More information about the Honor Code, including definitions of cheating, lying, and plagiarism, can be found at the Office of Academic Integrity website at (http://oai.gmu.edu).  __In this class, working together is strongly encouraged and doing so is not a violation of the Honor Code.  Each student must complete their own analysis codes and figures, and their own writeup of each assignment.__
+It is expected that students adhere to the George Mason University Honor Code as it relates to integrity regarding coursework and grades.  The Honor Code reads as follows: To promote a stronger sense of mutual responsibility, respect, trust, and fairness among all members of the George Mason University community and with the desire for greater academic and personal achievement, we, the student members of the University Community have set forth this: Student members of the George Mason University community pledge __not__ to cheat, plagiarize, steal and/or lie in matters related to academic work. More information about the Honor Code, including definitions of cheating, lying, and plagiarism, can be found at the Office of Academic Integrity website at (http://oai.gmu.edu).  __In this class, working together is strongly encouraged and doing so is not a violation of the Honor Code. However, each student must complete their own analysis codes and figures, and their own writeup of each assignment.__
 
 #### _Disability accomodations_
 <a href="http://dsgmu.wpengine.com/">Disability Services</a> at George Mason University is committed to providing equitable access to learning opportunities for all students by upholding the laws that ensure equal treatment of people with disabilities. If you are seeking accommodations for this class, please first visit <a href="http://dsgmu.wpengine.com/">Disability Services</a> for detailed information about the Disability Services registration process. Then please discuss your approved accommodations with me. Disability Services is located in Student Union Building I (SUB I), Suite 2500. Email: ods@gmu.edu | Phone: (703) 993-2474
