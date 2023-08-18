@@ -14,11 +14,11 @@ keypoints:
 
 ### Instructors
 
-Prof. Paul Dirmeyer and Luis Ortiz Uriarte
+Dr. Luis Ortiz Uriarte
 
 Dept. Atmospheric, Oceanic, and Earth Sciences
 
-Email: pdirmeye at gmu dot edu OR lortizur at gmu edu
+Email: lortizur at gmu dot edu 
 
 ### Meeting Days/Times
 
