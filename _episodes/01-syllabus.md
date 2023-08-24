@@ -24,7 +24,7 @@ Email: lortizur at gmu dot edu
 
 Tuesday and Thursday @ 4:30-5:45, 121 Research Hall 
 
-<a href="https://pdirmeyer.github.io/CLIM680-Climate-Data/"><b>Weekly schedule</b></a>
+<a href="https://prukutu.github.io/CLIM680-Climate-Data/"><b>Weekly schedule</b></a>
 
 > ## Prerequisites
 >
