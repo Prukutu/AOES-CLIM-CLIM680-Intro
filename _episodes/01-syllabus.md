@@ -22,7 +22,7 @@ Email: lortizur at gmu dot edu
 
 ### Meeting Days/Times
 
-Tuesday and Thursday @ 4:30-5:45, 121 Research Hall 
+Tuesday and Thursday @ 10:30-11:45am, L505 Exploratory Hall 
 
 <a href="https://prukutu.github.io/CLIM680-Climate-Data/"><b>Weekly schedule</b></a>
 
